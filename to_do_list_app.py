@@ -69,9 +69,9 @@ def mark_complete():
     else:
         try:
             tasks[int(user_input)-1][1] = True
-            mark_complete()
         except(ValueError, IndexError, OverflowError):
             print("\n\n\nInvalid input ༼ つ ◕_◕ ༽つ")
+        finally:
             mark_complete()
 
 
@@ -85,9 +85,9 @@ def delete_task():
     else:
         try:
             tasks.pop(int(user_input)-1)
-            delete_task()
         except(ValueError, IndexError, OverflowError):
             print("\n\n\nInvalid input ༼ つ ◕_◕ ༽つ")
+        finally:
             delete_task()
 
 
