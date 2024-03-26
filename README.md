@@ -1,4 +1,4 @@
-[README.md](https://github.com/AdamC13/to_do_list_app/files/14751918/README.md
+
 <br/>
 
 # **To Do List Application**
@@ -82,3 +82,5 @@ This application was a group effort created by:
 *Adam Cifelli* https://github.com/AdamC13
 
 *Savannah Lyles* https://github.com/Savvy325ng 
+
+[README.md](https://github.com/AdamC13/to_do_list_app/files/14751918/README.md
